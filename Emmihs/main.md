@@ -20,3 +20,7 @@ After serving for long-duration missions in collaboration with NASA, Hi-SEAS now
 
 The crew of the EMMIHS campaigns are carefully selected to make for a close-knit group with a wide array in backgrounds. These interdisciplinary backgrounds help us create new insights for the technological advancements we want to achieve during our simulation mission. Besides aiding each other in the necessary fields to bring the simulation to a succes, this gives us the opportunity to spread our knowledge within and outside of the habitat.
 <img src="/Emmihs/explore.jpg">
+
+<h1>Contact</h1>
+
+Feel free to contact us <a href="https://emmihs-esa.webnode.nl/contact/">through this form</a> at any time if you have questions or suggestions regarding our projects and campaigns, or if you would like to support our mission. 

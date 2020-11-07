@@ -1,10 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-Founded by the International Lunar Exploration Working Group <a href="https://en.wikipedia.org/wiki/International_Lunar_Exploration_Working_Group">(ILEWG)</a>, as part of research efforts towards the colonization of Moon and eventually the colonization of Mars, the EuroMoonMars initiative comprises of field campaigns in Moon-Mars analogue environments.
+Founded by the International Lunar Exploration Working Group (ILEWG), as part of research efforts towards the colonization of Moon and eventually the colonization of Mars, the EuroMoonMars initiative comprises of field campaigns in Moon-Mars analogue environments.
 
 These field campaigns have been organised in specific locations of technical, scientific and exploration interest. The campaigns started with EuroGeoMars2009 (Utah MDRS, 24 Jan-1 Mar 2009) with ILEWG, ESA ESTEC, NASA Ames, VU Amsterdam and GWU.
 

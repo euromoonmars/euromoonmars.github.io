@@ -1,0 +1,10 @@
+---
+layout: page
+title: NEWS
+---
+
+<a href="https://www.space.com/euromoonmars-esa-hi-seas-mock-moon-mission-ending.html"><b>Space.com</b>: European crew wraps up mock moon mission on volcano in Hawaii</a>
+
+<a href="https://www.space.com/mock-moon-mission-euromoonmars-hi-seas-hawaii.html"><b>Space.com</b>: European scientists are taking a mock moon mission in Hawaii right now</a>
+
+<a href="https://spacetalks.net/event/euromoonmars-workshop-at-estec-nordwijk-netherlands/"><b>European Space Talks</b>: EuroMoonMarsWorkshop at ESTEC</a>

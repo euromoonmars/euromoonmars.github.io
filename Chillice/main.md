@@ -3,7 +3,8 @@ layout: page
 title: CHILL-ICE Analogue Astronaut Mission
 ---
 
-<h1>Iceland Analogue Astronaut campaign 2020-2021</h1>
+<h1>Overview</h1>
+<h2>Iceland Analogue Astronaut campaign 2020-2021</h2>
 
 Have you ever wondered how we will establish a Moon or even a Mars base in the near future? Or what is needed to actually start living on another celestial body? EuroMoonMars is a non-profit analogue astronaut organization, which is focussed on getting answers to these questions and establishing a clear image of the future. 
 
@@ -20,4 +21,62 @@ If you would like to know more about this mission please follow EuroMoonMars on 
 If you would like to support this initiative, please donate at <a href="https://www.gofundme.com/f/chillice-analogue-astronaut-mission?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet">GoFundMe</a>.
 
 
-<img src="/Chillice/lavaman.jpeg" width="100%">
+<h1>Image Gallery</h1>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 4</div>
+  <img src="/Chillice/photo1.jpeg" style="width:100%">
+  <!--div class="text">Lavaman</div-->
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 4</div>
+  <img src="/Chillice/photo2.jpeg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 4</div>
+  <img src="/Chillice/photo3.jpeg" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 4</div>
+  <img src="/Chillice/photo4.jpeg" style="width:100%">
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>

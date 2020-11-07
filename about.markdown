@@ -16,4 +16,4 @@ Located at 8,200’ (2,500 meters) in elevation, HI-SEAS has been organising reg
 
 <h2>EMM IgLuna 2019 Campaign</h2>
 
-IgLuna is the first ESA Lab inter-University demonstrator project,[14] and is hosted by the Swiss Space Centre (SSC)[15] with the vision to create an analogue habitat inside lunar ice caps. The campaigns were held from 17–30 June 2019 and involved 18 student teams from 9 countries across Europe. The students developed modular demonstrators and tested them during a field test conducted inside the moon-like extreme environment of the Glacier Palace inside the Matterhorn glacier.
+IgLuna is the first ESA Lab inter-University demonstrator project, and is hosted by the Swiss Space Centre (SSC) with the vision to create an analogue habitat inside lunar ice caps. The campaigns were held from 17–30 June 2019 and involved 18 student teams from 9 countries across Europe. The students developed modular demonstrators and tested them during a field test conducted inside the moon-like extreme environment of the Glacier Palace inside the Matterhorn glacier.

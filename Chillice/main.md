@@ -16,7 +16,7 @@ However, of course, these research missions don't come without a cost. Developin
 
 <h1>Contact</h1>
 
-If you would like to know more about this mission please follow EuroMoonMars on LinkedIn, Instagram and Facebook or send us an email at <a href="mailto: charlotte.pouwels(at)euromoonmars.space">charlotte.pouwels(at)euromoonmars.space</a>
+If you would like to know more about this mission please follow EuroMoonMars on LinkedIn, Instagram and Facebook or send us an email at <a href="mailto: charlotte.pouwels@euromoonmars.space">charlotte.pouwels(at)euromoonmars.space</a>
 
 If you would like to support this initiative, please donate at <a href="https://www.gofundme.com/f/chillice-analogue-astronaut-mission?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet">GoFundMe</a>.
 

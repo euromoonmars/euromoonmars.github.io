@@ -3,8 +3,55 @@ layout: default
 title: Home
 ---
 
-<div class="blurb">
-	<div align="center">
-		<img src="/assets/images/emm_logo_white.jpg" style="width: 50%">
+<div class="slideshow-container">
+
+	<div class="mySlides fade">
+	  <img src="/assets/homepage/emm_logo_white.jpg" style="width:100%">
 	</div>
-</div><!-- /.blurb -->
+
+	<div class="mySlides fade">
+	  <img src="/assets/homepage/lavaman.jpg" style="width:100%">
+	  <div class="text">CHILL-ICE Analogue Astronaut Mission</div>
+	</div>
+
+	<div class="mySlides fade">
+	  <img src="/assets/homepage/emmihs.jpg" style="height:100%">
+	  <div class="text">EMMIHS Analogue Astronaut Missions</div>
+	</div>
+
+	<div class="mySlides fade">
+	  <img src="/assets/homepage/moongallery.jpg" style="height:100%">
+	  <div class="text">ArtMoonMars: Moon Gallery Project</div>
+	</div>
+</div>
+<br><br>
+<div style="text-align:center">
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+  <span class="dot"></span> 
+</div>
+
+<script>
+	var slideIndex = 0;
+	showSlides();
+
+	function showSlides() {
+	  var i;
+	  var slides = document.getElementsByClassName("mySlides");
+	  var dots = document.getElementsByClassName("dot");
+	  for (i = 0; i < slides.length; i++) {
+	    slides[i].style.display = "none";  
+	  }
+	  slideIndex++;
+	  if (slideIndex > slides.length) {slideIndex = 1}    
+	  for (i = 0; i < dots.length; i++) {
+	    dots[i].className = dots[i].className.replace(" active", "");
+	  }
+	  slides[slideIndex-1].style.display = "block";  
+	  dots[slideIndex-1].className += " active";
+	  setTimeout(showSlides, 3000); // Change image every 2 seconds
+	}
+</script>
+
+

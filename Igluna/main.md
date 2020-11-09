@@ -11,6 +11,9 @@ The campaigns were held from 17–30 June 2019, and involved 18 student teams fr
 
 <h1>Image Gallery</h1>
 
+<i>Source: <a href="https://www.spacecenter.ch/igluna/previouseditions/">Swiss Space Centre</a></i>
+<br>
+
 <div class="slideshow-container" align="center">
 
 <div class="mySlides fade">

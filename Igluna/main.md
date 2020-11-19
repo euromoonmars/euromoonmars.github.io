@@ -9,6 +9,20 @@ title: IgLuna 2019 Campaign
 
 The campaigns were held from 17–30 June 2019, and involved 18 student teams from 9 countries across Europe. The students developed modular demonstrators and tested them during a field test conducted inside the moon-like extreme environment of the Glacier Palace inside the Matterhorn glacier.
 
+<h1>The Mission</h1>
+
+Two teams of Euromoonmars members took part in Igluna 2019: a science team (VUSE) from VU Amsterdam and the <a href="/Artmoonmars/main">Moon Gallery</a>.
+
+VUSE performed multiple science experiments, including successful studies of the deformation of ice crystals, bacterial inside the ice, and plant growth with moon soil in cold conditions. VUSE team published multiple abstracts on international conferences (e.g. LPSC, EPSC, IAC) and provided BSc and MSc research projects for students at VU Amsterdam. A total of 6 students of VUSE performed the project at the Igluna Campaign. During this campaign the team gathered results and presented the project for audience, ESA general director Jan Woerner, and VIP guests (including Apollo 17 astronaut Harrison Schmitt).
+
+Thanks to VUSE team members: Marc Heemskerk (coordinator), Bram de Winter (coordinator), Stijn van Bloois, Robin Bas Korthouwer, Maarten Berg, Marjolein Daeter, Dieke Beentjes, Amanda Kruijver, Arlene Dingemans, Tinka Clement, and Bram Albers
+
+Thanks to: Swiss Space Center (Tatiana Benevides), ILEWG/ESA (prof. Bernard Foing) and our sponsors (ILEWG, Cosine, Euromex, HE Space)
+
+<h1>Contact</h1>
+
+vuigluna@gmail.com
+
 <h1>Image Gallery</h1>
 
 <i>Source: <a href="https://www.spacecenter.ch/igluna/previouseditions/">Swiss Space Centre</a></i>
